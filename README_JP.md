@@ -28,7 +28,7 @@
 
 ## インストール
 
-準備中
+[マーケットプレイス](https://www.unrealengine.com/marketplace/ja/product/graph-minimap)からインストールしてください。
 
 ## 機能と使い方
 
@@ -94,4 +94,4 @@
 ## 履歴
 
 - (2021/12/25) v1.0   
-  準備中
+  プラグインを公開

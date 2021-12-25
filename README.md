@@ -28,7 +28,7 @@ Target platform : Windows, Mac, Linux
 
 ## Installation
 
-IN PREPARATION  
+Install from the [marketplace](https://www.unrealengine.com/marketplace/en/product/graph-minimap).
 
 ## Features And Usages
 
@@ -94,4 +94,4 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 ## History
 
 - (2021/12/25) v1.0   
-  IN PREPARATION
+  Publish plugin
