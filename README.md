@@ -66,7 +66,7 @@ You can zoom with the mouse scroll.
 
 ![ShortcutKeySettings](https://user-images.githubusercontent.com/51815450/147378158-5c75649f-88e6-4f6d-9af9-cf0ac07ef649.PNG)
 
-The shortcut keys introduced in "Functions And Usage" can be changed from the keyboard shortcuts in the editor environment settings.  
+The shortcut keys introduced in "Functions And Usage" can be changed from the keyboard shortcuts in the editor preferences.  
 
 ![Settings](https://user-images.githubusercontent.com/51815450/147378165-9eeb0cd2-9247-47cd-873c-dcf59eb57500.PNG)
 
