@@ -76,7 +76,7 @@
 | |Default Graph Minimap Size|ミニマップのサイズが保存されていない時に使用されるデフォルトのミニマップのサイズ。|
 | |Keep Graph Minimap State|次回の起動時に各グラフのミニマップの状態を復元するかどうか。|
 | |Clear Cache File Button|保存されたミニマップのデータを削除するためのボタン。|
-|Limitation|Max Graph Size|ミニマップに描画できるグラフの最大サイズ。\nサイズが大きすぎると、ビデオメモリが不足してクラッシュする可能性があります。|
+|Limitation|Max Graph Size|ミニマップに描画できるグラフの最大サイズ。サイズが大きすぎると、ビデオメモリが不足してクラッシュする可能性があります。|
 |Minimap|Minimap Alignment|ミニマップがグラフエディタに表示される位置。|
 | |Minimap Opacity|グラフエディタに表示するミニマップの不透明度。|
 | |Minimap Tint Color|グラフエディタに表示するミニマップの色合い。|

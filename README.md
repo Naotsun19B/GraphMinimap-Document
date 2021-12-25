@@ -76,7 +76,7 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 | |Default Graph Minimap Size|The size of the minimap to display on the graph editor.|
 | |Keep Graph Minimap State|Whether to restore the state of the minimap for each graph at the next startup.|
 | |Clear Cache File Button|A button to delete the cached minimap data.|
-|Limitation|Max Graph Size|Maximum size of graph that can be drawn in the minimap.\nIf set it too high, you may run out of video memory and crash.|
+|Limitation|Max Graph Size|Maximum size of graph that can be drawn in the minimap. If set it too high, you may run out of video memory and crash.|
 |Minimap|Minimap Alignment|The position on which the minimap is displayed in the graph editor.|
 | |Minimap Opacity|The opacity of the minimap to display on the graph editor.|
 | |Minimap Tint Color|The tint color of the minimap to display on the graph editor.|
