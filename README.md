@@ -35,7 +35,7 @@ IN PREPARATION
 It supports basic graph editors such as blueprint and material, etc.  
 The minimap is automatically displayed when you open the graph editor.  
 You can switch the minimap mode with the shortcut key.  
-The default shortcut key is ```Shift + Ctrl + M```.  
+The default shortcut key is ```Ctrl + M```.  
 The minimap mode and size are saved for each graph and will be restored the next time you open the graph editor.  
 
 ### Hidden
