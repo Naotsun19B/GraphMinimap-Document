@@ -47,7 +47,7 @@ The minimap is hidden.
 ![Resizable](https://user-images.githubusercontent.com/51815450/147378312-897bc859-d8ae-4587-a393-a1ac4ccc471b.gif)
 
 You can resize the minimap by dragging.  
-You can also resize the minimap by scrolling the mouse.  
+You can change the drawing scale of the minimap by scrolling the mouse.  
 
 ### Visible
 
@@ -74,6 +74,7 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 |---|---|---|
 |Default State|Default Graph Minimap State|The default minimap state used when the minimap state is not cached.|
 | |Default Graph Minimap Size|The size of the minimap to display on the graph editor.|
+| |Default Rendering Scale|The default minimap drawing scale used when the minimap drawing scale is not saved. You can use the minimap with graphs that are larger than the Max Graph Size by reducing the drawing scale of the minimap.|
 | |Keep Graph Minimap State|Whether to restore the state of the minimap for each graph at the next startup.|
 | |Clear Cache File Button|A button to delete the cached minimap data.|
 |Limitation|Max Graph Size|Maximum size of graph that can be drawn in the minimap. If set it too high, you may run out of video memory and crash.|
@@ -86,12 +87,18 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 | |Camera Bounds Color|The color of camera bounds displayed on the minimap.|
 | |Camera Bounds Thickness|The thickness of camera bounds displayed on the minimap.|
 | |Drag Sensitivity|The mouse sensitivity when dragging.|
+| |Draw Size And Scale|Whether to draw the graph's drawing scale and scaled size in the upper right corner of the minimap.|
 
 ## Author
 
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History
+
+- (2022/01/15) v1.1  
+  Fixed a bug that the combo box etc. flickers when displaying the mini map  
+  Enabled to specify the drawing scale so that the minimap can be used in larger graphs  
+  Modified the design of the minimap a little.  
 
 - (2021/12/25) v1.0   
   Publish plugin
