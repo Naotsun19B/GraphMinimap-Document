@@ -28,7 +28,8 @@ Target platform : Windows, Mac, Linux
 
 ## Installation
 
-Install from the [marketplace](https://www.unrealengine.com/marketplace/en/product/graph-minimap).
+Install from the [marketplace](https://www.unrealengine.com/marketplace/en/product/graph-minimap).  
+If the feature is not available after installing the plugin, it is possible that the plugin has not been enabled, so please check if the plugin is enabled from Edit > Plugins.
 
 ## Features And Usages
 
