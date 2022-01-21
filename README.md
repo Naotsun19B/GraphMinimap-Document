@@ -96,8 +96,11 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 
 ## History
 
+- (2021/01/23) v1.3   
+  Fixed a bug that autofocus to node does not work when double-clicking a function on the list
+
 - (2021/01/17) v1.2   
-  Fixed a bug that the details panel is not displayed while operating the graph.
+  Fixed a bug that the details panel is not displayed while operating the graph
 
 - (2022/01/15) v1.1  
   Fixed a bug that the combo box etc. flickers when displaying the mini map  
