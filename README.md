@@ -23,7 +23,7 @@ You can also operate the graph editor from the minimap.
 
 ## Requirement
 
-Target version : UE4.24 ～ 4.27 (UE5.0EA)    
+Target version : UE4.24 ～ 5.0    
 Target platform : Windows, Mac, Linux  
 
 ## Installation
