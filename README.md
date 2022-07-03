@@ -96,10 +96,13 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 
 ## History
 
-- (2021/01/23) v1.3   
+- (2022/07/03) v1.4   
+  Fixed a bug when the DPI scale of the OS is not 100%
+
+- (2022/01/23) v1.3   
   Fixed a bug that autofocus to node does not work when double-clicking a function on the list
 
-- (2021/01/17) v1.2   
+- (2022/01/17) v1.2   
   Fixed a bug that the details panel is not displayed while operating the graph
 
 - (2022/01/15) v1.1  
