@@ -1,6 +1,6 @@
 # GraphMinimap
 
-![Plugin](https://user-images.githubusercontent.com/51815450/147378061-05e7c9d0-488a-4e9c-bfdf-bb1966bb5fb1.PNG)
+![Plugin](https://user-images.githubusercontent.com/51815450/177293045-ffae8179-55cd-4d89-bf6b-e627e797c43a.PNG)
 
 <!--ts-->
 * [概要](#概要)
@@ -45,31 +45,31 @@
 
 ### Resizable
 
-![Resizable](https://user-images.githubusercontent.com/51815450/147378312-897bc859-d8ae-4587-a393-a1ac4ccc471b.gif)
+https://user-images.githubusercontent.com/51815450/177293227-29e3eaf7-1f49-45fe-b529-76a5a516bc8b.mp4
 
 ドラッグ操作でミニマップのサイズを変更することができます。  
 マウススクロールでミニマップの描画スケールを変更することができます。
 
 ### Visible
 
-![Visible](https://user-images.githubusercontent.com/51815450/147378411-a44fcdc6-9bd5-44aa-8a09-5f1c0769f87f.gif)
+https://user-images.githubusercontent.com/51815450/177293415-67996847-9c8c-4bcd-b071-85b7fd67c2b1.mp4
 
 ミニマップの当たり判定がなくなり、ミニマップ越しにグラフエディタを操作することができます。
 
 ### Controllable
 
-![Controllable](https://user-images.githubusercontent.com/51815450/147378422-be90a3b0-a9bd-40a8-a6b5-f7a931d5dd2d.gif)
+https://user-images.githubusercontent.com/51815450/177293513-ee3428b1-7757-42d8-a1b3-a7f5be7b0401.mp4
 
 ドラッグ操作でグラフエディタのカメラの位置を移動させることができます。  
 マウススクロールでズーム操作ができます。
 
 ## オプション
 
-![ShortcutKeySettings](https://user-images.githubusercontent.com/51815450/147378158-5c75649f-88e6-4f6d-9af9-cf0ac07ef649.PNG)
+![ShortcutKeySettings](https://user-images.githubusercontent.com/51815450/177293651-e58dd23d-a940-4152-adeb-c1c256c97d18.PNG)
 
 「機能と使い方」でご紹介したショートカットキーはエディタ環境設定のキーボードショートカットから変更できます。
 
-![Settings](https://user-images.githubusercontent.com/51815450/147378165-9eeb0cd2-9247-47cd-873c-dcf59eb57500.PNG)
+![Settings](https://user-images.githubusercontent.com/51815450/177293724-b98ca2b7-0e12-4595-a2a2-1f72e8134b1a.PNG)
 
 |**カテゴリ**|**項目**|**説明**|
 |---|---|---|
