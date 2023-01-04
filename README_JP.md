@@ -23,7 +23,7 @@
 
 ## 動作環境
 
-対象バージョン : UE4.24 ～ 5.0    
+対象バージョン : UE4.24 ～ 5.1    
 対象プラットフォーム : Windows, Mac, Linux
 
 ## インストール
@@ -95,6 +95,9 @@ https://user-images.githubusercontent.com/51815450/177293513-ee3428b1-7757-42d8-
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## 履歴
+
+- (2022/11/08) v1.5   
+  UE5.1に対応しました  
 
 - (2022/07/03) v1.4   
   OSのDPIスケールが100%でない場合の不具合を修正  

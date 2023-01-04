@@ -23,7 +23,7 @@ You can also operate the graph editor from the minimap.
 
 ## Requirement
 
-Target version : UE4.24 ～ 5.0    
+Target version : UE4.24 ～ 5.1    
 Target platform : Windows, Mac, Linux  
 
 ## Installation
@@ -95,6 +95,9 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History
+
+- (2022/11/08) v1.5   
+  Added support for UE5.1  
 
 - (2022/07/03) v1.4   
   Fixed a bug when the DPI scale of the OS is not 100%
