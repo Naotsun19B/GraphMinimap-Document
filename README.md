@@ -11,6 +11,7 @@
     * [Resizable](#resizable)
     * [Visible](#visible)
     * [Controllable](#controllable)
+    * [Minimap Area](#minimap-area)
     * [Stream Deck](#stream-deck)
 * [Settings](#Settings)
 * [Author](#Author)
@@ -64,7 +65,7 @@ https://user-images.githubusercontent.com/51815450/177293513-ee3428b1-7757-42d8-
 You can move the camera position of the graph editor by dragging.  
 You can zoom with the mouse scroll.  
 
-### 表示エリア
+### Minimap Area
 
 ![MinimapArea](https://github.com/Naotsun19B/GraphMinimap-Document/assets/51815450/f205a45a-593f-4331-9197-1ea8347d1f25)
 
