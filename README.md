@@ -64,6 +64,30 @@ https://user-images.githubusercontent.com/51815450/177293513-ee3428b1-7757-42d8-
 You can move the camera position of the graph editor by dragging.  
 You can zoom with the mouse scroll.  
 
+### 表示エリア
+
+![MinimapArea](https://github.com/Naotsun19B/GraphMinimap-Document/assets/51815450/f205a45a-593f-4331-9197-1ea8347d1f25)
+
+In addition to displaying the entire graph, there is a function that allows you to display each comment in the graph on the minimap so that you can use the minimap even when working with huge graphs.  
+You can switch the display area of the minimap with the shortcut key or the combo box on the minimap.  
+The default shortcut key is ```Ctrl + N```.  
+The selected display area is saved for each graph and restored the next time the graph editor is opened.  
+
+### Stream Deck
+
+![StreamDeckApplication](https://github.com/Naotsun19B/GraphMinimap-Document/assets/51815450/a8abe4ca-9b4c-4ca2-a45b-854aec65f59c)
+
+This plugin supports calling functions from Stream Deck.
+
+Follow the steps below to use the feature:
+
+1. Install the Graph Minimap plugin for the Stream Deck from the `Graph Minimap - Stream Deck` in the editor preferences, then `Install Stream Deck Plugin`.
+2. Place buttons for the functions you want to use in the Stream Deck application.
+3. Set the `Http Path` and `Port Number` properties of the placed button. (You can leave it as default)
+4. Set the `Http Path` and `Port Number` of `Graph Minimap - Remote Control` in the editor preferences to the same values as those on the Stream Deck side. (You can leave it as default)
+5. You can connect to the Stream Deck by setting `Enable Remote Control` in `Graph Minimap - Remote Control` in the editor preferences to `true`.
+6. Press the button placed from the Stream Deck.
+
 ## Settings
 
 ![ShortcutKeySettings](https://github.com/Naotsun19B/GraphMinimap-Document/assets/51815450/df052bb6-4a64-44a6-bcad-e2300b97bf18)
@@ -72,30 +96,30 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 
 ![Settings](https://github.com/Naotsun19B/GraphMinimap-Document/assets/51815450/de89046d-939b-4cdf-9be4-d7681c85bc7c)
 
-| **Section**                    | **Item**                    | **Description**                                                                                                                                                                                             |
-|--------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Graph Minimap                  | Default Graph Minimap State | A default minimap state used when the minimap state is not cached.                                                                                                                                          |
-|                                | Default Graph Minimap Size  | A size of the minimap to display on the graph editor.                                                                                                                                                       |
-|                                | Default Rendering Scale     | A default minimap drawing scale used when the minimap drawing scale is not saved. You can use the minimap with graphs that are larger than the Max Graph Size by reducing the drawing scale of the minimap. |
-|                                | Keep Graph Minimap State    | Whether to restore the state of the minimap for each graph at the next startup.                                                                                                                             |
-|                                | Clear Cache File Button     | Delete the cached minimap data.                                                                                                                                                                             |
-|                                | Max Graph Size              | Maximum size of graph that can be drawn in the minimap. If set it too high, you may run out of video memory and crash.                                                                                      |
-|                                | Minimap Alignment           | A position on which the minimap is displayed in the graph editor.                                                                                                                                           |
-|                                | Minimap Opacity             | An opacity of the minimap to display on the graph editor.                                                                                                                                                   |
-|                                | Minimap Tint Color          | A tint color of the minimap to display on the graph editor.                                                                                                                                                 |
-|                                | Mode Icon Size              | A size of the mode icon displayed in the upper left of the minimap.                                                                                                                                         |
-|                                | Padding                     | A size of the margin applied when drawing the graph.                                                                                                                                                        |
-|                                | Mode Icon Tint Color        | A tint color of the mode icon displayed in the upper left of the minimap.                                                                                                                                   |
-|                                | Camera Bounds Color         | A color of camera bounds displayed on the minimap.                                                                                                                                                          |
-|                                | Camera Bounds Thickness     | A thickness of camera bounds displayed on the minimap.                                                                                                                                                      |
-|                                | Drag Sensitivity            | A mouse sensitivity when dragging.                                                                                                                                                                          |
-|                                | Draw Size And Scale         | Whether to draw the graph's drawing scale and scaled size in the upper right corner of the minimap.                                                                                                         |
-|                                | Show Minimap Area           | Whether to show the name of the currently displayed minimap area on the graph minimap.                                                                                                                      |
-|                                | Minimap Area Opacity        | An opacity of the name of the currently displayed minimap area on the graph minimap.                                                                                                                        |
-| Graph Minimap - Remote Control | Enable Remote Control       | Whether remote control via HTTP server is enabled. Please check again when the server is rebuilt.                                                                                                           |
-|                                | Http Path                   | A URL to connect to HTTP server. Disable remote control once to edit.                                                                                                                                       |
-|                                | Port Number                 | A port number used to connect to the HTTP server.                                                                                                                                                           |
-| Graph Minimap - Stream Deck    | Install Stream Deck Plugin  | Install the Graph Minimap plugin for Stream Deck.                                                                                                                                                           |
+| **Section**                    | **Item**                    | **Description**                                                                                                                                                                                               |
+|--------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Graph Minimap                  | Default Graph Minimap State | The default minimap state used when the minimap state is not cached.                                                                                                                                          |
+|                                | Default Graph Minimap Size  | The size of the minimap to display on the graph editor.                                                                                                                                                       |
+|                                | Default Rendering Scale     | The default minimap drawing scale used when the minimap drawing scale is not saved. You can use the minimap with graphs that are larger than the Max Graph Size by reducing the drawing scale of the minimap. |
+|                                | Keep Graph Minimap State    | Whether to restore the state of the minimap for each graph at the next startup.                                                                                                                               |
+|                                | Clear Cache File Button     | Delete the cached minimap data.                                                                                                                                                                               |
+|                                | Max Graph Size              | Maximum size of graph that can be drawn in the minimap. If set it too high, you may run out of video memory and crash.                                                                                        |
+|                                | Minimap Alignment           | The position on which the minimap is displayed in the graph editor.                                                                                                                                           |
+|                                | Minimap Opacity             | The opacity of the minimap to display on the graph editor.                                                                                                                                                    |
+|                                | Minimap Tint Color          | The tint color of the minimap to display on the graph editor.                                                                                                                                                 |
+|                                | Mode Icon Size              | The size of the mode icon displayed in the upper left of the minimap.                                                                                                                                         |
+|                                | Padding                     | The size of the margin applied when drawing the graph.                                                                                                                                                        |
+|                                | Mode Icon Tint Color        | The tint color of the mode icon displayed in the upper left of the minimap.                                                                                                                                   |
+|                                | Camera Bounds Color         | The color of camera bounds displayed on the minimap.                                                                                                                                                          |
+|                                | Camera Bounds Thickness     | The thickness of camera bounds displayed on the minimap.                                                                                                                                                      |
+|                                | Drag Sensitivity            | The mouse sensitivity when dragging.                                                                                                                                                                          |
+|                                | Draw Size And Scale         | Whether to draw the graph's drawing scale and scaled size in the upper right corner of the minimap.                                                                                                           |
+|                                | Show Minimap Area           | Whether to show the name of the currently displayed minimap area on the graph minimap.                                                                                                                        |
+|                                | Minimap Area Opacity        | The opacity of the name of the currently displayed minimap area on the graph minimap.                                                                                                                         |
+| Graph Minimap - Remote Control | Enable Remote Control       | Whether remote control via HTTP server is enabled. Please check again when the server is rebuilt.                                                                                                             |
+|                                | Http Path                   | The URL to connect to HTTP server. Disable remote control once to edit.                                                                                                                                       |
+|                                | Port Number                 | The port number used to connect to the HTTP server.                                                                                                                                                           |
+| Graph Minimap - Stream Deck    | Install Stream Deck Plugin  | Install the Graph Minimap plugin for Stream Deck.                                                                                                                                                             |
 
 ## Author
 
