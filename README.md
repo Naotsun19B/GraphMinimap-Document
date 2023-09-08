@@ -25,7 +25,7 @@ You can also operate the graph editor from the minimap.
 
 ## Requirement
 
-Target version : UE4.24 ～ 5.2    
+Target version : UE4.24 ～ 5.3    
 Target platform : Windows, Mac, Linux  
 
 ## Installation
@@ -127,6 +127,10 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History
+
+- (2023/09/09) v1.7   
+  Added support for UE5.3    
+  Plugin settings in editor preferences are now saved common to all projects
 
 - (2023/05/12) v1.6   
   Added support for UE5.2    
