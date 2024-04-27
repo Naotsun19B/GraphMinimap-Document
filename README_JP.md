@@ -25,7 +25,7 @@
 
 ## 動作環境
 
-対象バージョン : UE4.24 ～ 5.3    
+対象バージョン : UE4.24 ～ 5.4    
 対象プラットフォーム : Windows, Mac, Linux
 
 ## インストール
@@ -127,6 +127,9 @@ https://user-images.githubusercontent.com/51815450/177293513-ee3428b1-7757-42d8-
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## 履歴
+
+- (2024/04/24) v1.8  
+  UE5.4に対応しました  
 
 - (2023/09/09) v1.7
   UE5.3に対応しました  
