@@ -128,6 +128,10 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 
 ## History
 
+- (2025/06/08) v2.0
+  Added support for UE5.6  
+  Fixed a bug where editor preference was not saved correctly  
+
 - (2025/03/20) v1.9  
   Added support for UE5.5  
   Support before UE4.26 has been discontinued  
