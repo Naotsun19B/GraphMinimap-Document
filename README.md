@@ -25,7 +25,7 @@ You can also operate the graph editor from the minimap.
 
 ## Requirement
 
-Target version : UE4.27 ～ 5.6    
+Target version : UE4.27 ～ 5.7    
 Target platform : Windows, Mac, Linux  
 
 ## Installation
@@ -127,6 +127,10 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History
+
+- (2025/11/20) v2.1  
+  Added support for UE5.7    
+  Fixed a bug that prevented the minimap from working properly in UE 5.6 and later environments  
 
 - (2025/06/08) v2.0
   Added support for UE5.6  
