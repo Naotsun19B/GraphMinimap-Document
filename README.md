@@ -1,3 +1,7 @@
+![UE Version](https://img.shields.io/badge/Unreal%20Engine-4.27--5.7-0e1128?logo=unrealengine&logoColor=white)
+[![License: Fab Standard License (Fab EULA)](https://img.shields.io/badge/license-Fab%20Standard%20License%20%28Fab%20EULA%29-blue)](https://www.fab.com/eula)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Naotsun_UE?style=social)](https://twitter.com/Naotsun_UE)
+
 # GraphMinimap
 
 ![Plugin](https://user-images.githubusercontent.com/51815450/177293045-ffae8179-55cd-4d89-bf6b-e627e797c43a.PNG)
@@ -14,6 +18,7 @@
     * [Minimap Area](#minimap-area)
     * [Stream Deck](#stream-deck)
 * [Settings](#Settings)
+* [License](#license)
 * [Author](#Author)
 * [History](#History)
 <!--te-->
@@ -121,6 +126,12 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 |                                | Http Path                   | The URL to connect to HTTP server. Disable remote control once to edit.                                                                                                                                       |
 |                                | Port Number                 | The port number used to connect to the HTTP server.                                                                                                                                                           |
 | Graph Minimap - Stream Deck    | Install Stream Deck Plugin  | Install the Graph Minimap plugin for Stream Deck.                                                                                                                                                             |
+
+## License
+
+This repository contains documentation only. No plugin source code or binaries are provided here.  
+The plugin itself is distributed on Fab and is licensed to end users under the [Fab Standard License (Fab EULA)](https://www.fab.com/eula).  
+Unless explicitly stated otherwise, all documentation content in this repository is © 2021-2026 Naotsun. All rights reserved.
 
 ## Author
 

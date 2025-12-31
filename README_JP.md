@@ -1,3 +1,7 @@
+![UE Version](https://img.shields.io/badge/Unreal%20Engine-4.27--5.7-0e1128?logo=unrealengine&logoColor=white)
+[![License: Fab Standard License (Fab EULA)](https://img.shields.io/badge/license-Fab%20Standard%20License%20%28Fab%20EULA%29-blue)](https://www.fab.com/eula)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Naotsun_UE?style=social)](https://twitter.com/Naotsun_UE)
+
 # GraphMinimap
 
 ![Plugin](https://user-images.githubusercontent.com/51815450/177293045-ffae8179-55cd-4d89-bf6b-e627e797c43a.PNG)
@@ -14,6 +18,7 @@
     * [表示エリア](#表示エリア)
     * [Stream Deck](#stream-deck)
 * [オプション](#オプション)
+* [ライセンス](#ライセンス)
 * [作者](#作者)
 * [履歴](#履歴)
 <!--te-->
@@ -121,6 +126,12 @@ https://user-images.githubusercontent.com/51815450/177293513-ee3428b1-7757-42d8-
 |                                | Http Path                   | HTTPサーバーに接続するためのURL。編集するには一度`Enable Remote Control`を`false`にしてください。                                           |
 |                                | Port Number                 | HTTPサーバーへの接続に使用されるポート番号。                                                                                      |
 | Graph Minimap - Stream Deck    | Install Stream Deck Plugin  | Stream Deck向けのGraph Minimapプラグインをインストールします。                                                                   |
+
+## ライセンス
+
+本リポジトリはドキュメントのみを含みます。プラグイン本体のソースコード／バイナリは含みません。  
+プラグイン本体は Fab 上で配布され、利用者には [Fab Standard License (Fab EULA)](https://www.fab.com/ja/eula) に基づいて提供されます。  
+特に明記がない限り、本リポジトリ内のドキュメントの著作権は © 2021-2026 Naotsun に帰属し、無断転載は禁止です。
 
 ## 作者
 
