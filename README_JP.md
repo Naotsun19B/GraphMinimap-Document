@@ -1,4 +1,4 @@
-![UE Version](https://img.shields.io/badge/Unreal%20Engine-4.27--5.7-0e1128?logo=unrealengine&logoColor=white)
+![UE Version](https://img.shields.io/badge/Unreal%20Engine-4.27--5.8-0e1128?logo=unrealengine&logoColor=white)
 [![License: Fab Standard License (Fab EULA)](https://img.shields.io/badge/License-Fab%20Standard%20License%20%28Fab%20EULA%29-blue)](https://www.fab.com/eula)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Naotsun_UE?style=social)](https://twitter.com/Naotsun_UE)
 
@@ -30,8 +30,10 @@
 
 ## 動作環境
 
-対象バージョン : UE4.27 ～ 5.7    
+対象バージョン : UE4.27 ～ 5.8    
 対象プラットフォーム : Windows, Mac, Linux
+
+UE5.8でキーボードショートカットが大量に追加されており、本プラグインとキーが被っている場合があるため、ショートカットキーが動作しない場合は設定をご確認ください。  
 
 ## インストール
 
@@ -138,6 +140,9 @@ https://user-images.githubusercontent.com/51815450/177293513-ee3428b1-7757-42d8-
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## 履歴
+
+- (2026/06/20) v2.2  
+  UE5.8に対応しました
 
 - (2025/11/20) v2.1  
   UE5.7に対応しました  

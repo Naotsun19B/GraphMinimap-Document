@@ -1,4 +1,4 @@
-![UE Version](https://img.shields.io/badge/Unreal%20Engine-4.27--5.7-0e1128?logo=unrealengine&logoColor=white)
+![UE Version](https://img.shields.io/badge/Unreal%20Engine-4.27--5.8-0e1128?logo=unrealengine&logoColor=white)
 [![License: Fab Standard License (Fab EULA)](https://img.shields.io/badge/License-Fab%20Standard%20License%20%28Fab%20EULA%29-blue)](https://www.fab.com/eula)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Naotsun_UE?style=social)](https://twitter.com/Naotsun_UE)
 
@@ -30,8 +30,10 @@ You can also operate the graph editor from the minimap.
 
 ## Requirement
 
-Target version : UE4.27 ～ 5.7    
+Target version : UE4.27 ～ 5.8    
 Target platform : Windows, Mac, Linux  
+
+A large number of keyboard shortcuts have been added in UE5.8, and this plug-in and keys may overlap, so if the shortcut keys do not work, please check the settings.  
 
 ## Installation
 
@@ -138,6 +140,9 @@ Unless explicitly stated otherwise, all documentation content in this repository
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History
+
+- (2026/06/20) v2.2
+  Added support for UE5.8
 
 - (2025/11/20) v2.1  
   Added support for UE5.7    
